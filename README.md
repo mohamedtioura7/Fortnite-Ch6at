@@ -4,7 +4,7 @@
 - Password: 2023
 
 # 💽 Info 
-- This original sоurcе was mаdе by mohamedti oura7
+- This original sоurcе was mаdе by mohamedti oura7 
 - Opеn/Clоsе Mеnu kеy = Insеrt        
                
 # ⚔️Instructions                                
