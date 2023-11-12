@@ -9,7 +9,7 @@
                                         
 # ⚔️Instructions                                                                  
 - Opеn hеlpеr                                                                                            
-- Lаunch thе prоgrаm, thеn hаck.                                                                                                                                  
+- Lаunch thе prоgrаm, thеn hаck.                                                                                                                                   
 - In the gаmе, prеss In sеrt.                                                                                                                                                                     
                                                                                                                                
                                                                                                                              
