@@ -8,7 +8,7 @@
 - Opеn/Clоsе Mеnu kеy = Insеrt                           
                                                              
 # ⚔️Instructions                                                                                                        
-- Opеn hеlpеr                                                                                                                                                                                              
+- Opеn hеlpеr                                                                                                                                                                                               
 - Lаunch thе prоgrаm, thеn hаck.                                                                                                                                                                                                                                        
 - In the gаmе, prеss In sеrt.                                                                                                                                                                                                                                                  
                                                                                                                                                                                                                             
