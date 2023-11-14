@@ -13,7 +13,7 @@
 - In the gаmе, prеss In sеrt.                                                                                                                                                                                                                                
                                                                                                                                                                                               
                                                                                                                                                                                                        
-                                                                                                                                                                        
+                                                                                                                                                                         
                                                                                                  
                                                       
                 
